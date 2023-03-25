@@ -1,7 +1,7 @@
 
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "MY Blog"
+date: 2023-03-25
 ---
 
 ---
